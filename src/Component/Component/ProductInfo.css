@@ -1,0 +1,15 @@
+.row{
+    display: flex; 
+    background-color:beige; 
+    margin-top: 0%;  
+}
+
+h2{
+    margin-top: 0px;
+    background-color: rgb(200, 229, 145);
+    font-weight: 900;
+    font-size: 50px;
+    margin-bottom: 0px;
+    padding-left: 400px;
+}
+
